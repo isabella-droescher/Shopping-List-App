@@ -2,8 +2,6 @@ Material 3 Design Kit:
 
 Typography/M3
 
-/title/large          Überschrift, App Bar
-
 /label/large          Actions = "Alle löschen", "Erstellen", "Schließen", "Abbrechen"
 /label/medium         Sortierung Überschrift "Titel" "Erstellt"
 /label/small          Datum, Sortierung Beschreibung "A-Z"...
@@ -19,6 +17,10 @@ Bsp: Flutter Anwendung
 style: Theme.of(context).textTheme.titleLarge
 
 ----------------------------------------
+
+Google Font: 
+
+Caveat - 26px - w500    Überschrift, App Bar
 
 
 
