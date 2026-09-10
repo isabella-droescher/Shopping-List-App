@@ -49,31 +49,20 @@ Durch die Kombination von Farben, Texturen, Formen und Bildern entsteht eine kla
 # Design Screens (Neuestes Update! Sept.2026)
 
 ## Ausgangsbasis der Prototypenentwicklung
+Für die Entwicklung des Prototyps wurde eine Viewport-Größe von 360 × 780 px als Ausgangspunkt definiert.
+Dies entspricht bei einer dreifachen Pixeldichte einer physischen Auflösung von 1080 × 2340 Pixeln und orientiert sich damit beispielsweise an der Displayauflösung des Samsung Galaxy S25. 
+Das Interface wurde responsiv konzipiert, sodass sich die Darstellung flexibel an unterschiedliche Bildschirmgrößen und Auflösungen anpassen lässt. 
 
+Die responsive Darstellung wurde beispielhaft mit folgenden Viewport-Größen getestet: 
 
-                         
-                                Für die Entwicklung des Prototyps wurde eine Viewport-Größe von 360 × 780 px als
-                                Ausgangspunkt definiert.
-                                Dies entspricht bei einer dreifachen Pixeldichte einer physischen Auflösung von 1080 ×
-                                2340 Pixeln und orientiert sich damit beispielsweise an der Displayauflösung des Samsung
-                                Galaxy S25. 
+- 360 x 780 - Smartphone
+- 412 x 891 - großes Smartphone
+- 700 x 840 - Tablet / Large Screen
 
-                                Das Interface wurde responsiv konzipiert, sodass sich die Darstellung flexibel an
-                                unterschiedliche Bildschirmgrößen und Auflösungen anpassen lässt. Die responsive
-                                Darstellung wurde beispielhaft mit folgenden Viewport-Größen getestet: 
+Die Abmessungen der Systemleiste sowie der Bildschirmtastatur wurden für den Prototyp beispielhaft angenommen bzw. an Material-Design-Komponenten orientiert.
+Die tatsächliche Darstellung und Größe dieser Systemelemente kann je nach Betriebssystem, Gerät und Systemeinstellungen variieren.
 
-                            <ul class="list-unstyled d-flex flex-column align-items-center ">
-                                <li class="badgestyle"> 360 x 780 - Smartphone </li>
-                                <li class="badgestyle"> 412 x 891 - großes Smartphone </li>
-                                <li class="badgestyle"> 700 x 840 - Tablet / Large Screen</li>
-                            </ul>
-
-                            Die Abmessungen der Systemleiste sowie der Bildschirmtastatur wurden für den Prototyp
-                            beispielhaft angenommen bzw. an Material-Design-Komponenten orientiert.
-                            Die tatsächliche Darstellung und Größe dieser Systemelemente kann je nach
-                            Betriebssystem, Gerät und Systemeinstellungen variieren.
-
-                            <img width="1413" height="1346" alt="Start" src="ui-ux-concept/Start.png" />
+<img width="1680" height="974" alt="Start" src="ui-ux-concept/Start.png" />
 
 
 
